@@ -1,3 +1,0 @@
-/home/ilman/Desktop/Project/HelloWorld/CMakeFiles/edit_cache.dir
-/home/ilman/Desktop/Project/HelloWorld/CMakeFiles/rebuild_cache.dir
-/home/ilman/Desktop/Project/HelloWorld/CMakeFiles/HelloWorld.dir
